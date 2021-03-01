@@ -30,7 +30,8 @@ DEVICE_PACKAGE_OVERLAYS += \
 
 PRODUCT_PACKAGES += \
     ElixirSettingsResTarget \
-    ElixirSystemUIResTarget \
+    ElixirSystemUIResTarget  \
+    OnePlus8PWifiOverlay \
     OPlusFrameworksResTarget \
     OPlusSettingsProviderResTarget \
     OPlusSystemUIResTarget
