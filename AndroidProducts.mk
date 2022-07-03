@@ -1,5 +1,6 @@
 #
 # Copyright (C) 2018-2019 The LineageOS Project
+#               2022 PIXELPLUSUI Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #
